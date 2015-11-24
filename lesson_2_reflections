@@ -12,3 +12,9 @@ area allows commits to be more precise.
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can check which changes have been made between the working directory and the staging area using git diff or the changes between the staging directory and the repository with git diff --staged
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you are adding a new version or a new feature than multiple branches can distinguish the verision or feature from the main project.  
+
