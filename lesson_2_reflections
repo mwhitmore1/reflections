@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When a repository is initialized a git file is created, however, it does not automatically create a commit.  A repository is necessary, because without it, no commit an be made.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+No changes are made to files while they are in the staging area.  The files are in the working directory but cannot be accessed.  The staging area allows commits to be more precise.  
