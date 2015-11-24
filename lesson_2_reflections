@@ -5,4 +5,10 @@ When a repository is initialized a git file is created, however, it does not aut
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-No changes are made to files while they are in the staging area.  The files are in the working directory but cannot be accessed.  The staging area allows commits to be more precise.  
+No changes are made to files while they are in the staging area.  The files are in the working directory but cannot be accessed.  The staging 
+area allows commits to be more precise.  
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can check which changes have been made between the working directory and the staging area using git diff or the changes between the staging directory and the repository with git diff --staged
