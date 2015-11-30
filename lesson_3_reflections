@@ -10,3 +10,8 @@ A feature may not be complete at the time you complete the local commit.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are used to make copies of a repository on the GitHub server that will be saved in your profile.  Clones are used to make a copy from somewwhere to your computer.  Branches are used to make new commits to try out new features.  
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+the benefit of having the origin/master file is that you know the last state of what was going on on the server.  
