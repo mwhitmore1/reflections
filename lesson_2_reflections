@@ -22,3 +22,13 @@ If you are adding a new version or a new feature than multiple branches can dist
 How do the diagrams help you visualize the branch structure?
 
 Git can only view backwards, and thus is not abe to see branches in the git log.  
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When two branches are merged together the resulting branch will have the properties of both branches.  the commit log of the lead branch will show all commits in both branches.  
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The advantage is that it is quicker to do automerge.  the disadvantage is that unwanted content may appear that may alter how the program runs.  
