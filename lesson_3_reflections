@@ -20,3 +20,8 @@ the benefit of having the origin/master file is that you know the last state of 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You could collaborate with out github by using another cloud based program that allows multiple users to edit the same document, or by making multiple copies of th same document and having each person work on a different part.  it would be more difficult to get rid of bugs and track changes without git.  
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to pull changes directly to the branch you are working on if the changes are what you are trying to accomplish with that branc.  
