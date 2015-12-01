@@ -15,3 +15,8 @@ Forks are used to make copies of a repository on the GitHub server that will be 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 the benefit of having the origin/master file is that you know the last state of what was going on on the server.  
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could collaborate with out github by using another cloud based program that allows multiple users to edit the same document, or by making multiple copies of th same document and having each person work on a different part.  it would be more difficult to get rid of bugs and track changes without git.  
